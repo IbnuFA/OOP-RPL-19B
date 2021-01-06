@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609972417 source:d:\belajar\c++\class\tugasgame\main.cpp
+	<iostream>
+	<windows.h>
+	<unistd.h>
+	<stdlib.h>
+
